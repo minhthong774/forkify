@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhthong774/forkily.git"
+  },
+  "author": "Dinh Minh Thong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhthong774/forkily/issues"
+  },
+  "homepage": "https://github.com/minhthong774/forkily#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2"
+  }
+}
